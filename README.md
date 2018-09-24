@@ -1,6 +1,6 @@
 
 
-##Project Title
+## Project Title
 My Portfolio
 
 
@@ -8,7 +8,7 @@ My Portfolio
 * visual studio code
 * sublime
 
-##languages uses.
+## languages uses.
 * HTML
 * CSS 
 * JAVASCRIPT
